@@ -1,6 +1,6 @@
 const url = new URL(location.href)
 
-const roomUrl = new URL("https://coldy.whereby.com/yesyes6ee8c32f-5072-47c8-91e1-7117b2075ae9")
+const roomUrl = new URL("https://coldy.whereby.com")
 roomUrl.pathname = url.pathname
 roomUrl.search = url.search
 
